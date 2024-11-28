@@ -1,0 +1,16 @@
+ 08:40:51.631 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Malik\AppData\Local\Temp\testng-eclipse--1487790237\testng-customsuite.xml
+n
+ 08:40:51.658 [main] INFO  org.testng.internal.Utils - [Utils] DynamicGraphHelper.createDynamicGraph() took 3 ms.n
+ 08:40:51.822 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@55342f40: 64 msn
+ 08:40:51.833 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@6da00fb9: 11 msn
+ 08:40:51.849 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@6035b93b: 16 msn
+ 08:40:51.868 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7b8233cd: 16 msn
+ 08:40:51.874 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@25b2cfcb: 6 msn
+ 08:40:51.874 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@72758afa: 0 msn
+ 08:46:02.928 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\FrameWorkV1122\src\test\java\testCases\testng.xml
+n
+ 10:05:56.537 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\FrameWorkV1122\test-output\testng-failed.xml
+n

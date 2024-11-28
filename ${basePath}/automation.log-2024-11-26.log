@@ -1,0 +1,55 @@
+ 08:43:23.434 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@1bfe3203: 0 msn
+ 09:26:20.527 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\FrameWorkV1122\src\test\java\testCases\testng.xml"n
+ 09:26:20.807 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\FrameWorkV1122\src\test\java\testCases\testng.xml
+n
+ 01:41:11.841 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\FrameWorkV1122\src\test\java\testCases\testng.xml"n
+ 01:50:31.819 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\FrameWorkV1122\src\test\java\testCases\testng.xml"n
+ 07:14:05.474 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\FrameWorkV1122\src\test\java\testCases\testng.xml
+n
+ 08:35:15.567 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\FrameWorkV1122\grouping.xml
+n
+ 08:36:55.196 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\FrameWorkV1122\grouping.xml
+n
+ 08:38:20.295 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\FrameWorkV1122\grouping.xml"n
+ 08:38:20.554 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\FrameWorkV1122\grouping.xml
+n
+ 08:39:03.437 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Automation\FrameWorkV1122\grouping.xml"n
+ 08:39:03.699 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\FrameWorkV1122\grouping.xml
+n
+ 08:40:51.388 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Malik\AppData\Local\Temp\testng-eclipse--1487790237\testng-customsuite.xml"n
+ 08:40:51.594 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.n
+ 08:40:51.595 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.n
+ 08:40:51.597 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.n
+ 08:40:51.597 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.n
+ 08:40:51.598 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.n
+ 08:40:51.598 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.n
+ 08:40:51.599 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.n
+ 08:40:51.599 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.n
+ 08:40:51.605 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 4 ms.n
+ 08:40:51.612 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 6 ms.n
+ 08:40:51.613 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.n
+ 08:40:51.614 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.n
+ 08:40:51.614 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.n
+ 08:40:51.614 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.n
+ 08:40:51.615 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.n
+ 08:40:51.615 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.n
+ 08:40:51.619 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.n
+ 08:40:51.619 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.n
+ 08:40:51.619 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.n
+ 08:40:51.619 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.n
+ 08:40:51.621 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.n
+ 08:40:51.621 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.n
+ 08:40:51.621 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.n
+ 08:40:51.622 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.n
+ 08:40:51.623 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.n
+ 08:40:51.623 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.n
+ 08:40:51.624 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.n
+ 08:40:51.624 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.n
+ 08:40:51.625 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.n
+ 08:40:51.625 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.n
