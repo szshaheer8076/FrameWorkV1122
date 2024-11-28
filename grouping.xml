@@ -14,7 +14,7 @@
 
  <listeners>
    
-   <listener class-name ="utilities.ExtentReportManager" />
+   <listener class-name ="utilities.ExtentReporter" />
    
    </listeners>
   

@@ -14,3 +14,6 @@ n
  10:05:56.537 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Automation\FrameWorkV1122\test-output\testng-failed.xml
 n
+ 04:49:27.256 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Automation\FrameWorkV1122\grouping.xml
+n
