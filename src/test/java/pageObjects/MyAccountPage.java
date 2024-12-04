@@ -8,31 +8,36 @@ public class MyAccountPage extends BasePage{
 
 	public MyAccountPage(WebDriver driver) {
 		super(driver);
-		
 	}
-	
-	@FindBy(xpath="//h2[normalize-space()='My Account']")
-	
+
+	@FindBy(xpath = "//h2[text()='My Account']") // MyAccount Page heading
 	WebElement msgHeading;
 	
-	@FindBy(xpath="//a[@class='list-group-item'][normalize-space()='Logout']")
-	WebElement linklogout;
 	
-	 public boolean isMyAccountPageExists() {
-		 
-		 try {
-			 return (msgHeading.isDisplayed());
-		 }
-		 catch(Exception e) {
-			 return false;
-		 }
-	 }
-	 
-	 public void clickLogout() {
-		 linklogout.click();
-		 
-	 }
-
+	@FindBy(xpath = "//div[@class='list-group']//a[text()='Logout']")   //added in step6
+	WebElement lnkLogout;
+	
+	
+	public boolean isMyAccountPageExists()
+	{
+		try
+		{
+		return (msgHeading.isDisplayed());
+		}
+		catch(Exception e)
+		{
+			return false;
+		}
+	}
+	
+	public void clickLogout()
+	{
+		lnkLogout.click();
+	}
+	
+	
+	
+	
 	
 	
 }

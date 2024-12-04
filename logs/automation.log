@@ -1,0 +1,15 @@
+2024-12-02 10:01:06 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\FrameWorkV1122\grouping.xml
+
+2024-12-02 10:11:58 INFO  Utils:112 - [TestNG] Running:
+  C:\Automation\FrameWorkV1122\grouping.xml
+
+2024-12-02 10:12:05 INFO  TC001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-12-02 10:12:05 INFO  TC001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-12-02 10:12:06 INFO  TC001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-12-02 10:12:06 INFO  TC001_AccountRegistrationTest:28 - Providing customer details...
+2024-12-02 10:12:08 INFO  TC001_AccountRegistrationTest:42 - Validating expected message..
+2024-12-02 10:12:08 INFO  TC001_AccountRegistrationTest:47 - Test passed
+2024-12-02 10:12:08 INFO  TC001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
+2024-12-02 10:12:11 INFO  TC00_LoginTest:16 - ****** Startign TC_002_LoginTest *****
+2024-12-02 10:12:13 INFO  TC00_LoginTest:41 - ****** Finished TC_002_LoginTest *****
